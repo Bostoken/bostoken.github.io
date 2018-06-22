@@ -1,5 +1,6 @@
 ## Welcome to BOS Community
 
+[Image of bostoken](https://octodex.github.com/img/bosblockchain1.png)
 ### About BOS 
 BOS Blockchain for Financial Services Bring trust, simplicity and efficiency to transactions through the establishment of new financial services infrastructure and processes with Ethereum Blockchain.
 Transparant System 
